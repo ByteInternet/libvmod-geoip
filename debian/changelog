@@ -1,4 +1,10 @@
-libvmod-geoip (1.0.2) unstable; urgency=low
+libvmod-geoip (20200326.123850) unstable; urgency=low
+
+  * Update control file for Buster Varnish 4.1.3
+
+ -- Rick van de Loo <rickvandeloo@gmail.com>  Thu, 26 Mar 2020 12:38:50 +0100
+
+libvmod-geoip (20170703.093657) unstable; urgency=low
 
   * Add debian packaging
 
